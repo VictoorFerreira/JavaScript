@@ -1,4 +1,4 @@
-<h1 aligh="center">Barbearia Alura</h1>
+<h1 aligh="center">Mochila Viagem</h1>
 
 <p>O projeto foi realizado no curso de JavaScript - Armazenamento de dados no navegador no site da Alura.</p>
 
