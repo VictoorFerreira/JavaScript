@@ -17,6 +17,7 @@ body{
     justify-content: center;
     text-align: center;
     margin: 0;
+    font-family: var(--font-family);
 }
 
 h1{
